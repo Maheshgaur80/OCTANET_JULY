@@ -1,0 +1,79 @@
+.min-h-screen{
+	min-height: 100vh;
+}
+.bg-red{
+	background-color: red;
+}
+.mx-auto{
+	margin-left:auto;
+	margin-right:auto;
+}
+.flex{
+	display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  
+  align-items: center; 
+}
+.justify-between{
+   justify-content:space-between;
+}
+.justify-center{
+	justify-content:center ;
+}
+.navbar{
+	display: flex;
+	height: 67px;
+}
+.navbar li{
+   
+   list-style: none;
+   margin: 0 12px;
+}
+.font-bold{
+     font-weight: bolder;
+}
+.my-1{
+ 
+ margin-top: 13px;
+ margin-bottom: 13px;
+}
+.my-2{
+ 
+ margin-top: 26px;
+ margin-bottom: 26px;
+}
+.px-2{
+	padding-left: 13px;
+	padding-right: 13px;
+}
+.text-blue{
+	color: blue;
+}
+.btn{
+    padding: 4px 2px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: rgb(29,88, 214);	
+}
+.gymimg{
+	height: 600px;
+	width: 0vw;
+	border-radius: 20px;
+	
+}
+.text-center{
+	text-align: center;
+}
+
+
+
+
+
+
+
